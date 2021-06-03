@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered for supporting the Company of Mercht. Adventurers of England, in their trade to Germany.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28752</idno><idno type="EEBO-CITATION">99885792</idno>
+  <idno type="VID">186026</idno>
+  <idno type="EEBO-PROQUEST">2248538058</idno>
+  
+            <idno type="STC">Wing R542A</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.100*[59]</idno>
+            <idno type="STC">ESTC R224991</idno>
+            <idno type="PROQUEST">ocm99885792</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885792e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28752)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186026)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ;  C3:2[57])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered for supporting the Company of Mercht. Adventurers of England, in their trade to Germany.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Wing has title: Reasons humbly offered for supporting the Company of Merchant Adventurers of England.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Trading companies --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Commerce --  Germany --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186026:1"/>
+            <head>REASONS Humbly Offered for Supporting the Company of <hi>Mercht. Adventurers of England,</hi> In their TRADE to <hi>GERMANY.</hi>
+            </head>
+            <p>THE Securing and Promoting of the Trade of Exporting the Woollen Manu<g ref="char:EOLhyphen"/>factures to <hi>Germany,</hi> so as may be most Beneficial for the Nation, is a Matter of such Importance, that it is hoped it may not be unworthy the Consideration of the <hi>Honourable House of Commons,</hi> to whom it is Humbly Represented.</p>
+            <p>THAT the Supporting the Ancient Company of <hi>Merchants Adventurers</hi> of <hi>England</hi> in the said Trade, will be the most Effectual Means to conduce there<g ref="char:EOLhyphen"/>unto. For this Company having First Introduced the Woollen Manufactures in<g ref="char:EOLhyphen"/>to this Kingdom, and been the sole Exporters thereof, the same did Flourish, under their Government and Conduct, in a Regulated Way of Trade, for above <hi>Two Hundred and Fifty</hi> Years, until Foreigners, in the Reign of King <hi>CHARLES</hi> the II. were indulged, and ad<g ref="char:EOLhyphen"/>mitted to become Principals in Exporting thereof; since which, few or no <hi>English</hi> are con<g ref="char:EOLhyphen"/>cerned as Principals in the Trade for <hi>Holland,</hi> but only employed as Factors for the <hi>Dutch.</hi> Whereby the Woollen Manufactures have been <hi>Falsified</hi> and <hi>Debased.</hi>
+            </p>
+            <p>That Foreigners, as soon as they can be Accomodated, Prefer their own Natives to be their Factors, who, most of them, live obsurely, and bare no Charge to the Government.</p>
+            <p>That the Clothiers have had Great Losses by the Foreigners intermeddling in the said Trade.</p>
+            <p>That the laying open the said Trade about the beginning of the Reign of His present MAJESTY, and the late Queen, hath not had its designed Effect, as is evident by the Complaints of the Clothiers.</p>
+            <p>That by the Preserving and Supporting of this Company in their Trade to <hi>Germany,</hi> the following Benefits will accrue, <hi>viz.</hi>
+            </p>
+            <p>The Merchants Profit will be Secured to the Nation, which will otherwise go to Foreigners.</p>
+            <p>The Younger Sons of the Gentry may be Employed in this Trade.</p>
+            <p>The Reputation of the Woollen Manufacture will be kept up, and the Goods not suffered to be Debased, or go out altogether Unmanufactured, whereby a very great Number of Handicrafts Men have of late been Impoverished.</p>
+            <p>The Market abroad will be plentifully furnished with great Quantities and choice of Goods, as was formerly done. Whereas by the laying open that Trade, <hi>English</hi> Men have been discouraged from keeping their Magazines abroad so fully stored, whereby the Mar<g ref="char:EOLhyphen"/>ket hath not been sufficiently supplied.</p>
+            <p>The Companys Priviledges at <hi>Hamburgh,</hi> which are very Advantageous to the Nation, will be thereby preserved, which if once lost will be irrecoverable.</p>
+            <p>The Company, by virtue of their Grants from the City of <hi>Hamburgh,</hi> will be able to prevent the Importation there of Woollen Manufactures from <hi>Ireland.</hi>
+            </p>
+            <p>The Customs at <hi>Hamburgh,</hi> Inwards and Outwards, will, by the Stipulations made with that City, be prevented from being Raised, wherein the Members of this Company have greater Priviledge, and pay much Less than their own Burgers; but if the Company is not Supported, there is no doubt but, in a little time, the Customs there on <hi>English</hi> Commodi<g ref="char:EOLhyphen"/>ties will be advanced.</p>
+            <p>The <hi>English</hi> Navigation to those parts will be Restored. Whereas there hath not of late been One <hi>English</hi> Ship in Fifty Employed.</p>
+            <p>Foreigners will be Prevented from becoming the sole Masters of this Trade, which can never be for the Interest of <hi>England.</hi>
+            </p>
+            <p>And many other Advantages will Accrue to the Nation thereby.</p>
+            <p>It is not Proposed but that the Trade from <hi>Exeter,</hi> and all other parts of <hi>England,</hi> to <hi>Holland</hi> and <hi>Flanders,</hi> may be left Open and Free, as it hath been for several Years past.</p>
+            <p>There can be no Restraint of Trade, or Want of Buyers, by keeping up this Company, since they are willing to Admit all <hi>English</hi> Men into their Society, for as Small a Fine as the <hi>Honourable House of Commons</hi> shall think fit; and every. Member, so coming in, may Buy and Sell as much as he pleases, every one Trading for his own Account.</p>
+            <p>Wherefore, It is Humbly Hoped, that the said Company may be Supported in their Trade to <hi>Germany.</hi> And that a Foreign Interest may not be preferr'd in Opposition to the True Interest of <hi>England.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:186026:2"/>
+            <p>REASONS For Supporting the <hi>Merchant Adventurers</hi> of <hi>England,</hi> in their Trade to <hi>Germany.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
